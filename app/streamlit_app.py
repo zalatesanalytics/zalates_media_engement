@@ -8,7 +8,7 @@ st.caption('Prototype dashboard for Ethiopian Government social media engagement
 
 data = pd.DataFrame({
     'account': ['MoH', 'MoE', 'MoFA'],
-    'total_engagement': [1200, 950, 700],
+    'total_engagement': [1200, 1050, 700],
     'avg_engagement_rate': [3.2, 2.7, 1.9],
 })
 
